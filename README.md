@@ -10,7 +10,7 @@ Since 2023, I've embarked on an exciting journey into the world of coding, trans
 * 🖥️  See my portfolio at [MyPortfolio](http://65f9e8915aba140fc2138a0c--ryorafaelportfolio.netlify.app/)
 * ✉️  You can contact me at [ryorafael18@gmail.com](mailto:ryorafael18@gmail.com)
 * 🚀  I'm currently working on improving and changing the coding language for [Le Fou Frog Website](http://lefoufrogproject.netlify.app/)
-* 🧠  I'm learning Swift, Python, and Next.js
+* 🧠  I'm learning Swift, Java, and Next.js, Angular, Typescript
 * 🤝  I'm open to collaborating on both front and back end projects with creative aspects
 
 ### Skills
